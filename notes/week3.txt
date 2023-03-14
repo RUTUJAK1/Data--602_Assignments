@@ -1,0 +1,6 @@
+hw:
+marks: 100
+
+lab: 
+marks: 98
+remarks: can provide detailed answers for Q2 and Q3
